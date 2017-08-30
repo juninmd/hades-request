@@ -1,0 +1,8 @@
+{
+  "name": "hades-request",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/juninmd/hades-request.git",
+  "author": "juninmd <jr_acn@yahoo.com.br>",
+  "license": "MIT"
+}
