@@ -60,7 +60,7 @@ module.exports = {
                         })
                     }
 
-                    return resolve(typeof (response.body) == 'object') ? response.body : JSON.parse(response.body);
+                    return resolve(typeof (response.body) == 'object' ? response.body : JSON.parse(response.body));
                 }
                 catch (err) {
                     return reject({

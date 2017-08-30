@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/juninmd/hades-request.git",
   "author": "juninmd <jr_acn@yahoo.com.br>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
 }
